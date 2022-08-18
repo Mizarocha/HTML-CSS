@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+/*APARELHO EM PÉ (PORTRAIT)*/
+
+body {
+    background-image:  url(../images/22-portrait.JPG);
+    background-position: center bottom;
+   
+}

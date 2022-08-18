@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+/*APARELHO DEITADO (landscape) */
+
+body {
+    background-image: url(../images/25-landscape.JPG);
+    background-position: left bottom;
+}
