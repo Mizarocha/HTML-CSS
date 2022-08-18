@@ -5,20 +5,26 @@ Seguindo a oreintação do dispositivo - HTML5 E CSS3
  ## Aprendendo e aplicando com Media Queries: 
  
  - As medias features são complementos         
- - Faz com que as medias queries fiquem completas
- - Nesse exemplo foi criado dois medias types e duas media features 
+ - Faz com que as medias queries fiquem completas.
  
- - Media Types: screen e print       
- - Media Features: (orientation: portrait) e (orientation: landscape)         
- - E como você está vendo as media features são escritas entre pararenteces, que são características            
- - E com o CSS as imagens vão ser mostratas no disppsotivo em retrato e paisagem, em pé e deitado.    
+ ##  Nesse exemplo foi criado  medias types e  media features      
+ 
+ - Media Types: tipos de tela "screen e print".      
+ as media types são escritas normais.                
+ 
+ - Media Features: caracaterísticas de tela.            
+ as  media feature são escritas entre parêntese ().                   
+ 
+ - E no arquivo CSS as imagens vão ser mostratas no dispositivo em retrato e paisagem ( em pé e deitado. )   
  
  
   Para visualizar podemos vê isso em prática no Git Pages :       
   
   [Link](https://mizarocha.github.io/HTML-CSS/)
   
-  Abrindo no browser vai está em paisem (deitado) e quando minuir a tela vai está em retrato (em pé)            
+  ## Funcionalidade:    
+  
+  Abrindo no browser vai está em paisagem (deitado) e quando diminuir a tela vai está em retrato (em pé)            
   Abrindo pelo dispositivo vai abrir normal retrato e quando virar o celular vai abrir paisagem . 
 
 ## Demostraçaõ do resultado:
