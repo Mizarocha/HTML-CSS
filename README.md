@@ -15,7 +15,7 @@ Seguindo a oreintação do dispositivo - HTML5 E CSS3
  - Media Features: caracaterísticas de tela.            
  as  media feature são escritas entre parêntese ().                   
  
- - E no arquivo CSS as imagens vão ser mostratas no dispositivo em retrato e paisagem ( em pé e deitado. )   
+ - E no arquivo CSS as imagens vão ser mostradas no dispositivo em retrato e paisagem ( em pé e deitado. )   
  
  
   Para visualizar podemos vê isso em prática no Git Pages :       
